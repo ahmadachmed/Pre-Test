@@ -1,5 +1,3 @@
-# bukalapak_pretest
-
 **Tools what I'm using in**
 <br/>
 ```Web Automation : Ruby, Cucumber & Selenium framework```
